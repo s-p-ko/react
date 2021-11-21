@@ -1,4 +1,4 @@
-# My apps deployment
+# Learning React (practise) 
 
 ## Разработка E-commerce Project по курсу "Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)"
 
