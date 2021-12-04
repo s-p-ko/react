@@ -1,4 +1,4 @@
-# Learning React (practise)
+# The repos and demos list of my React-projects
 
 ## Разработка E-commerce Project по курсу "Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)"
 
